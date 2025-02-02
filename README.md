@@ -81,9 +81,9 @@
    git clone https://github.com/your-repo-name.git
    cd your-repo-name```
 2. Установите зависимости:
-```
-pip install -r requirements.txt
-```
+   ```
+   pip install -r requirements.txt
+   ```
 
 ---
 
@@ -115,9 +115,9 @@ pip install -r requirements.txt
 - `shap`
 
 Установите их с помощью команды:
-```
-pip install -r requirements.txt
-```
+   ```
+   pip install -r requirements.txt
+   ```
 
 ---
 
