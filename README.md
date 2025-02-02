@@ -79,8 +79,7 @@
 1. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/your-repo-name.git
-   cd your-repo-name
-```
+   cd your-repo-name```
 2. Установите зависимости:
 ```
 pip install -r requirements.txt
@@ -99,7 +98,8 @@ pip install -r requirements.txt
     - Запустите скрипт `train_model.py` для обучения моделей и оптимизации гиперпараметров.
 3. **Прогнозирование:**
     
-    - Используйте модель для предсказания вероятности покупки на новых данных:        ```from model import predict 
+    - Используйте модель для предсказания вероятности покупки на новых данных:
+      ```from model import predict 
       predictions = predict(new_data)```
 
 ---
